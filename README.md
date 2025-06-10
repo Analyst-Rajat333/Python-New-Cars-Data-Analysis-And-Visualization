@@ -91,3 +91,17 @@ The dataset contains **19,617** records of new car purchases across German citie
 - Age group 31–45 dominates the purchase segment.
 
 - Satisfaction levels are balanced but show some gender-specific patterns.
+
+---
+
+## 🔗 GitHub Repository
+
+👉 [View Project on GitHub](https://github.com/Analyst-Rajat333/Python-New-Cars-Data-Analysis-And-Visualization)
+
+---
+
+## 👨‍💻 Author
+
+**Rajat Saxena**  
+📧 Email: [rajatsaxena950@gmail.com](mailto:rajatsaxena950@gmail.com)  
+🔗 GitHub: [Analyst-Rajat333](https://github.com/Analyst-Rajat333)
